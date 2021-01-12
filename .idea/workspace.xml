@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d822efe9-3a85-44b0-91f1-bc9a420db00d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/phpquery/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1hVSq50iC695bl3reEXAcWMHkNC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../../.." />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d822efe9-3a85-44b0-91f1-bc9a420db00d" name="Default Changelist" comment="" />
+      <created>1600094953741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600094953741</updated>
+      <workItem from="1600094954874" duration="351000" />
+      <workItem from="1600095318579" duration="1713000" />
+      <workItem from="1600183020586" duration="742000" />
+      <workItem from="1600184026087" duration="1310000" />
+      <workItem from="1600185360568" duration="4000" />
+      <workItem from="1600185874398" duration="1961000" />
+      <workItem from="1600193884052" duration="2746000" />
+      <workItem from="1600227012063" duration="5000" />
+      <workItem from="1601196706871" duration="225000" />
+      <workItem from="1601196969550" duration="2381000" />
+      <workItem from="1601272616911" duration="984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="480" width="375" height="154" key="#WordPress" timestamp="1600095328176">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="803" y="480" width="375" height="154" key="#WordPress/72.27.1848.1053@72.27.1848.1053" timestamp="1600095328176" />
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1600094965731">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1600094965731" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1600184120502">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1600184120502" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$/../../..</wordpressPath>
+  </component>
+</project>
